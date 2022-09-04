@@ -33,8 +33,3 @@ MatLab UI
 
 #### Demo
 <div align=center><img width = '470' src = "https://github.com/KNN-6948/Steerable-Vehicle/blob/main/gif/UI.gif"></div><div align=center><img width = '350' src = "https://github.com/KNN-6948/Steerable-Vehicle/blob/main/gif/AutoMode.gif"><img width = '350' src = "https://github.com/KNN-6948/Steerable-Vehicle/blob/main/gif/Avoidance.gif"></div>
-
-
-## Authors and acknowledgment
-
-## Licens
